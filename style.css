@@ -32,20 +32,17 @@
   line-height: 29px;
   color: #000000;
 }
-
 .product__text {
   font-size: 14 px;
   line-height: 17 px;
   color: #888888;
 }
-
 .product__discont {
   font-weight: 500;
   font-size: 24 px;
   line-height: 29 px;
   color: #050505;
 }
-
 .product_price {
   font-weight: 500;
   font-size: 24px;
